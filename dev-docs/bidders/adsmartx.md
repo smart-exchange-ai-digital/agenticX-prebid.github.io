@@ -1,11 +1,12 @@
 ---
 layout: bidder
-title: AdSmartX
-description: Prebid.js bidder adapter for AdSmartX
-biddercode: adsmartx
+title: AgenticX
+description: Prebid.js bidder adapter for AgenticX
+biddercode: agenticx
 media_types:
   - banner
   - video
+  - audio
 gdpr_supported: true
 usp_supported: true
 gpp_supported: true
